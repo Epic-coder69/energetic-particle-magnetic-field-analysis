@@ -1,0 +1,46 @@
+
+---
+title: "Project Solar"
+subtitle: "Investigating Magnetic Switchbacks Using Parker Solar Probe"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Introduction
+
+This document records the ongoing investigation of magnetic switchbacks observed by NASA's Parker Solar Probe.
+
+# Scientific Background
+
+## Magnetic Switchbacks
+
+Magnetic switchbacks are large rotations of the magnetic-field vector, sometimes including reversals of its radial component.
+
+The magnetic-field magnitude is defined as:
+
+$$
+|\mathbf{B}| = \sqrt{B_R^2 + B_T^2 + B_N^2}
+$$
+
+# Research Objectives
+
+To be developed as we review the literature and explore the available measurements.
+
+# Methodology
+
+To be developed.
+
+# Observations and Results
+
+To be developed.
+
+# Discussion
+
+To be developed.
+
+# References
+
+To be added.
+
